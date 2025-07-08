@@ -560,7 +560,7 @@ nav.navbar img.starter__img {
 
 .auto-grow-textarea {
   width: 100%;
-  max-width: 650px;
+  max-width: 600px;
   height: clamp(150px, 30vw, 250px);
   border: 2px solid gray;
   border-radius: 8px;
